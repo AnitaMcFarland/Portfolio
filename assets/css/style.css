@@ -44,7 +44,7 @@
       box-shadow: 5px 5px 15px 5px #000000;
 
   }
-  .jerome {
+  .burger {
     height: 250px;
     width: 250px;
     margin: 25px;
@@ -53,7 +53,8 @@
     -webkit-box-shadow: 5px 5px 15px 5px #000000; 
     box-shadow: 5px 5px 15px 5px #000000;
   }
-  .married {
+ 
+  .friends {
     height: 250px;
     width: 250px;
     margin: 25px;
@@ -62,7 +63,7 @@
     -webkit-box-shadow: 5px 5px 15px 5px #000000; 
     box-shadow: 5px 5px 15px 5px #000000;
   }
-  .harley {
+  .giftastic {
     height: 200px;
     width: 250px;
     margin: 25px;
@@ -72,7 +73,7 @@
     -webkit-box-shadow: 5px 5px 15px 5px #000000; 
     box-shadow: 5px 5px 15px 5px #000000;
   }
-  .riley {
+  .train {
     height: 250px;
     width: 250px;
     margin: 25px;
@@ -90,6 +91,10 @@
     font-style: italic;
 
   }
+  h4{
+      font-style: italic;
+      color: black;
+  }
   .skills{
       color: red;
       font-size: 30px;
@@ -98,4 +103,7 @@
   .newskills{
       font-size: 30px;
       font-style: italic;
+  }
+  .card{
+      background-color: bisque;
   }
